@@ -1,6 +1,8 @@
 # FlyModeGG
 FLYMODEGG ,it's a fly plugin for your server
 
+# NOTE: It is currently unsupported but is still compatible with 1.20 or higher.
+
 TERMINOS DE USO: BY USING THIS PLUGIN YOU AGREE THE FOLLOWING LEGAL TERMS
 
 You should not modify the add-in in any way. You should not call that the plug-in was coded by you.
